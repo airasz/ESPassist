@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="chicken.head.espassist.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nacces"
+        android:title="goto notification acces" />
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:orderInCategory="100"
+        android:title="exit" />
+    <item
+        android:id="@+id/synctime"
+        android:title="Sync Time" />
+</menu>

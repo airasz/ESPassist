@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ESP32 NEx</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ble_not_supported">BLE not supported on this device</string>
+    <string name="bt_unavailable">Bluetooth unavailable</string>
+    <string name="bt_disabled">Bluetooth disabled, turn on and restart</string>
+    <!-- Scan -->
+    <string name="action_scan">SCAN</string>
+    <string name="action_stop">STOP</string>
+    <!-- Device -->
+    <string name="read_manufacturer_name">Read Manufacturer Name</string>
+    <string name="read_serial_number">Read Serial Number</string>
+    <string name="write_alert_level">Write Alert Level</string>
+    <string name="no_dev">No devices connected</string>
+    <string name="alert_nottify_failed">Its look like the app failed to grab system notification. \nYou have to reEnable permission notification to reconnect notification listener service. \n\nDo you want it?</string>
+
+</resources>
